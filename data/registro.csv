@@ -1,0 +1,2 @@
+ejecucion_utc,cierre_fecha,cierre_usd,sma50,sma100,sma150,sma200,peso_anterior,peso_objetivo,accion,cantidad_btc,precio_ejecucion_usd,comision_usd,efectivo_usd,btc,precio_valoracion_usd,capital_usd,capital_al_cierre_usd,modelo_al_cierre_usd,diferencia_vs_modelo_pct,nota
+2026-09-23T10:22:25Z,2026-09-22,86193.99,74125.43,68713.86,70450.62,70675.88,,1.0,compra,0.000269817,85768.69,0.057855,0.000296,0.000269817,85769.51,23.1424,23.2569,23.1421,0.5,
