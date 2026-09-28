@@ -1,13 +1,13 @@
 # Laboratorio 20 EUR - estado
 
-Actualizado: 27/09/2026 14:09 (Madrid)
+Actualizado: 28/09/2026 16:04 (Madrid)
 
 | | |
 |---|---|
 | Regla (congelada) | Media de SMA50/100/150/200 sobre BTC/USD, cuenta de papel |
 | Exposicion actual | 100 % en BTC |
-| Capital del laboratorio | 22,92 USD (inicio 23,20 USD, -1,2 %) |
-| Modelo de libro al cierre | 22,66 USD (diferencia 0,50 %) |
+| Capital del laboratorio | 22,50 USD (inicio 23,20 USD, -3,0 %) |
+| Modelo de libro al cierre | 22,68 USD (diferencia 0,50 %) |
 | Ordenes / comisiones | 1 / 0,0579 USD |
 | En marcha desde | 2026-09-23 |
 | Ultima accion | mantener |
@@ -21,3 +21,4 @@ Actualizado: 27/09/2026 14:09 (Madrid)
 | 2026-09-25 11:56 | 84.385,74 | 100 % | mantener | 22,82 | 0,50 |
 | 2026-09-26 11:30 | 84.085,50 | 100 % | mantener | 22,71 | 0,50 |
 | 2026-09-27 12:09 | 84.411,43 | 100 % | mantener | 22,92 | 0,50 |
+| 2026-09-28 14:04 | 84.457,95 | 100 % | mantener | 22,50 | 0,50 |
