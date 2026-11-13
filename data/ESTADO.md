@@ -1,22 +1,21 @@
 # Laboratorio 20 EUR - estado
 
-Actualizado: 12/11/2026 16:21 (Madrid)
+Actualizado: 13/11/2026 15:39 (Madrid)
 
 | | |
 |---|---|
 | Regla (congelada) | Media de SMA50/100/150/200 sobre BTC/USD, cuenta de papel |
-| Exposicion actual | 50 % en BTC |
-| Capital del laboratorio | 20,19 USD (inicio 23,20 USD, -13,0 %) |
-| Modelo de libro al cierre | 20,45 USD (diferencia 0,44 %) |
-| Ordenes / comisiones | 3 / 0,0839 USD |
+| Exposicion actual | 0 % en BTC |
+| Capital del laboratorio | 19,79 USD (inicio 23,20 USD, -14,7 %) |
+| Modelo de libro al cierre | 20,08 USD (diferencia -1,43 %) |
+| Ordenes / comisiones | 4 / 0,1075 USD |
 | En marcha desde | 2026-09-23 |
-| Ultima accion | mantener |
+| Ultima accion | venta 0.000136827 BTC a 68.982,70 USD (residuo de 0.000000676 BTC (0.0467 USD) puesto a 0) |
 
 ## Ultimas ejecuciones
 
 | Fecha (UTC) | Cierre USD | Peso | Accion | Capital USD | vs modelo % |
 |---|---|---|---|---|---|
-| 2026-11-03 14:24 | 76.676,23 | 75 % | mantener | 21,08 | 0,58 |
 | 2026-11-04 14:39 | 77.340,90 | 75 % | mantener | 21,37 | 0,58 |
 | 2026-11-05 14:44 | 80.438,10 | 75 % | mantener | 21,46 | 0,58 |
 | 2026-11-06 14:22 | 75.971,88 | 50 % | venta | 20,77 | 0,44 |
@@ -26,3 +25,4 @@ Actualizado: 12/11/2026 16:21 (Madrid)
 | 2026-11-10 14:58 | 75.261,87 | 50 % | mantener | 20,59 | 0,44 |
 | 2026-11-11 14:29 | 73.698,01 | 50 % | mantener | 20,48 | 0,44 |
 | 2026-11-12 15:21 | 73.929,38 | 50 % | mantener | 20,19 | 0,44 |
+| 2026-11-13 14:39 | 71.372,67 | 0 % | venta | 19,79 | -1,43 |
