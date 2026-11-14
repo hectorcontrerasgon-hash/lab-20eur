@@ -1,6 +1,6 @@
 # Laboratorio 20 EUR - estado
 
-Actualizado: 13/11/2026 15:39 (Madrid)
+Actualizado: 14/11/2026 14:37 (Madrid)
 
 | | |
 |---|---|
@@ -10,13 +10,12 @@ Actualizado: 13/11/2026 15:39 (Madrid)
 | Modelo de libro al cierre | 20,08 USD (diferencia -1,43 %) |
 | Ordenes / comisiones | 4 / 0,1075 USD |
 | En marcha desde | 2026-09-23 |
-| Ultima accion | venta 0.000136827 BTC a 68.982,70 USD (residuo de 0.000000676 BTC (0.0467 USD) puesto a 0) |
+| Ultima accion | mantener |
 
 ## Ultimas ejecuciones
 
 | Fecha (UTC) | Cierre USD | Peso | Accion | Capital USD | vs modelo % |
 |---|---|---|---|---|---|
-| 2026-11-04 14:39 | 77.340,90 | 75 % | mantener | 21,37 | 0,58 |
 | 2026-11-05 14:44 | 80.438,10 | 75 % | mantener | 21,46 | 0,58 |
 | 2026-11-06 14:22 | 75.971,88 | 50 % | venta | 20,77 | 0,44 |
 | 2026-11-07 13:11 | 75.734,48 | 50 % | mantener | 20,80 | 0,44 |
@@ -26,3 +25,4 @@ Actualizado: 13/11/2026 15:39 (Madrid)
 | 2026-11-11 14:29 | 73.698,01 | 50 % | mantener | 20,48 | 0,44 |
 | 2026-11-12 15:21 | 73.929,38 | 50 % | mantener | 20,19 | 0,44 |
 | 2026-11-13 14:39 | 71.372,67 | 0 % | venta | 19,79 | -1,43 |
+| 2026-11-14 13:37 | 68.245,82 | 0 % | mantener | 19,79 | -1,43 |
